@@ -1,12 +1,12 @@
 # Portfolio of Documentation
 
-###### Elliott Williams
+###### ~~ Elliott Williams ~~
 
-### What
+## What
 
 Much of the documentation I've written over the years is still private, so I've gathered some here that I am permitted to share publicly.
 
-### How
+## How
 
 When I write them, my main objectives for docs are:
 
@@ -16,7 +16,7 @@ When I write them, my main objectives for docs are:
 
 i.e. you'll know what you're doing and why you're doing it every step of the way in my documentation.
 
-### Clerical Notes
+## Clerical Notes
 
 Folders denote projects or companies the work is for. Some things have been sanitized to enhance client privacy, but don't distract from the documentation overall. No private keys included tho, sorry.
 
