@@ -6,7 +6,11 @@
 
 Much of the documentation I've written over the years is still private, so I've gathered some here that I am permitted to share publicly.
 
-## How
+## How To Read This
+
+Individual Projects are in folders. Lit has links to the documentation in it's folder README. Will add README's to earn projects to give an overview of what they do.
+
+## How I write Docs
 
 When I write them, my main objectives for docs are:
 
