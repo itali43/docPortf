@@ -1,0 +1,18 @@
+{
+  "meta_description": "DELETE THIS! DO NOT PUT THIS IN THE METADATA!  This explains what this file is.  It is an example of metadata for an ERC1155 that is compliant with OpenSea.  This is an example for the discord badge, the URLs should be changed to the appropriate locations",
+  "description": "Earn Alliance Badge",
+  "external_url": "https://earnalliance.com",
+  "image": "https://earnalliance.com/nfturis/imgs/3.png",
+  "name": "Earn Alliance Discord Badge",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "1"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Badge Type",
+      "value": "Discord"
+    }
+  ]
+}
